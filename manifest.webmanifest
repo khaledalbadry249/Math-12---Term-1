@@ -1,11 +1,1 @@
-{
-"name":"لعبة الأسئلة الموضوعية – رياضيات الثاني عشر علمي",
-"short_name":"رياضيات 12",
-"description":"لعبة أسئلة موضوعية – أ/ خالد البدري",
-"lang":"ar","dir":"rtl",
-"start_url":"./","scope":"./","display":"standalone","orientation":"any",
-"background_color":"#1d4e89","theme_color":"#1d4e89",
-"icons":[
-{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
-{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},
-{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
+{"name":"لعبة الأسئلة الموضوعية – رياضيات الثاني عشر علمي","short_name":"رياضيات 12","description":"أ/ خالد البدري – قسم الرياضيات","start_url":"./","scope":"./","display":"standalone","orientation":"portrait","lang":"ar","dir":"rtl","background_color":"#1d4e89","theme_color":"#1d4e89","icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"},{"src":"icon-maskable-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
